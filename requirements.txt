@@ -223,10 +223,10 @@ ipywidgets
 # ======================================================
 
 # Numerical computations and arrays (20-30 MB)
-# numpy
+numpy
 
 # Data manipulation and analysis (built on numpy, 10-20 MB)
-# pandas
+pandas
 
 # High-performance DataFrame library for large datasets (Rust-based, fast) (~5-10 MB)
 # polars
@@ -242,7 +242,7 @@ matplotlib
 seaborn
 
 # Interactive plotting library, often used with Shiny apps (~20-25 MB)
-# plotly
+plotly
 
 # ======================================================
 # CONTINUOUS INTELLIGENCE AND INTERACTIVE ANALYTICS
