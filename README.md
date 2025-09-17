@@ -3,8 +3,10 @@ This project demonstrates Exploratory Data Analysis (EDA) using Python, Pandas, 
 
 ## Workflow and Commands
 Clone the repository:
-git clone https://github.com/your-username/datafun-04-notebooks.git
+git clone https://github.com/waldomac00/datafun-04-eda
+
 cd datafun-04-notebooks
+
 Create and activate a virtual environment:
 ### Windows
 py -3.12 -m venv .venv
