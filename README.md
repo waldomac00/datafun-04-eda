@@ -6,12 +6,12 @@ Clone the repository:
 git clone https://github.com/your-username/datafun-04-notebooks.git
 cd datafun-04-notebooks
 Create and activate a virtual environment:
-# Windows
+### Windows
 py -3.12 -m venv .venv
 .\.venv\Scripts\activate
-# macOS / Linux
 
-# Install dependencies:
+
+## Install dependencies:
 python -m pip install --upgrade pip setuptools wheel
 python -m pip install numpy pandas matplotlib seaborn ipywidgets jupyter ipykernel
 Register the Jupyter kernel:
